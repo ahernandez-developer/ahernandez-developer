@@ -1,4 +1,4 @@
-<img src="./assets/particles-header.svg" width="100%" />
+<img src="./assets/header.svg" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -123,4 +123,4 @@ Software Engineer that enjoys coding. Right now I'm deep into AI tooling, making
   <img src="https://streak-stats.demolab.com/?user=ahernandez-developer&theme=dark&hide_border=true&background=0A0A0A&ring=B20000&fire=B20000&currStreakLabel=B20000&sideLabels=F2F2F2&currStreakNum=F2F2F2&sideNums=F2F2F2&dates=8E8E8E" alt="GitHub Streak" />
 </p>
 
-<img src="./assets/particles-footer.svg" width="100%" />
+<img src="./assets/footer.svg" width="100%" />
