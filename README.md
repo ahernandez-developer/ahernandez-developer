@@ -12,7 +12,7 @@
 
 ### &nbsp;About Me
 
-I like building stuff and shipping it. Right now I'm deep into AI tooling, making Claude Code plugins, and running two products. I also spend way too much time automating everything I can with n8n and CI/CD pipelines. When I'm not coding, I'm probably memorizing a deck of cards or solving a Rubik's cube.
+Software Engineer that enjoys coding. Right now I'm deep into AI tooling, making Claude Code plugins, and running two products. I also spend time learning automation with n8n and trying AI tools like Claude Code and so on.
 
 &nbsp;&nbsp;&nbsp;🔭&nbsp; Building **[MemoriaMaster](https://www.memoriamaster.com/)** and **[GanttFather](https://ganttfather.com/)**\
 &nbsp;&nbsp;&nbsp;🤖&nbsp; Creating open-source AI dev tools like **[claude-crap](https://github.com/ahernandez-developer/claude-crap)**\
