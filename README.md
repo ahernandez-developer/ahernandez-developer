@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=220&section=header&text=Tech%20Enthusiast&fontSize=42&fontColor=F2F2F2&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=B20000&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=180&section=header&text=Tech%20Enthusiast&fontSize=42&fontColor=F2F2F2&fontAlignY=35&desc=Software%20Engineer&descSize=18&descColor=B20000&descAlignY=60&animation=fadeIn" width="100%" />
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -123,4 +123,4 @@ I like building stuff and shipping it. Right now I'm deep into AI tooling, makin
   <img src="https://streak-stats.demolab.com/?user=ahernandez-developer&theme=dark&hide_border=true&background=0A0A0A&ring=B20000&fire=B20000&currStreakLabel=B20000&sideLabels=F2F2F2&currStreakNum=F2F2F2&sideNums=F2F2F2&dates=8E8E8E" alt="GitHub Streak" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0A0A&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=80&section=footer" width="100%" />
