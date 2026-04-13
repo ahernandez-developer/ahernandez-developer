@@ -2,17 +2,17 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&random=false&width=520&lines=An+offer+your+codebase+can't+refuse;The+Don+of+Full-Stack+Development;Shipping+web%2C+mobile+%26+AI+tools;Memory+sports+competitor+%26+speedcuber" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=B20000&center=true&vCenter=true&random=false&width=520&lines=An+offer+your+codebase+can%27t+refuse;The+Don+of+Full-Stack+Development;Shipping+web%2C+mobile+%26+AI+tools;Memory+sports+competitor+%26+speedcuber" alt="Typing SVG" />
   </a>
 </p>
 
 <br/>
 
-<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" />
+<img align="right" alt="GanttFather" src="./assets/ganttfather-logo.png" width="200" />
 
 ### &nbsp;About Me
 
-I make offers that codebases can't refuse. I turn ideas into products people actually use -- from memory training platforms to project management tools to open-source AI plugins. I automate what should be automated, ship what needs shipping, and never go against the family... er, the team.
+I like building stuff and shipping it. Right now I'm deep into AI tooling, making Claude Code plugins, and running two products. I also spend way too much time automating everything I can with n8n and CI/CD pipelines. When I'm not coding, I'm probably memorizing a deck of cards or solving a Rubik's cube.
 
 &nbsp;&nbsp;&nbsp;🔭&nbsp; Building **[MemoriaMaster](https://www.memoriamaster.com/)** and **[GanttFather](https://ganttfather.com/)**\
 &nbsp;&nbsp;&nbsp;🤖&nbsp; Creating open-source AI dev tools like **[claude-crap](https://github.com/ahernandez-developer/claude-crap)**\
