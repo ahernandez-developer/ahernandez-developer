@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <rect width="1200" height="220" fill="#0A0A0A"/>
+
+  <style>
+    @keyframes float {
+      0% { transform: translateY(0); opacity: 0.3; }
+      50% { opacity: 0.7; }
+      100% { transform: translateY(-220px); opacity: 0; }
+    }
+    @keyframes drift {
+      0% { transform: translate(0, 0); opacity: 0.2; }
+      50% { opacity: 0.5; }
+      100% { transform: translate(20px, -220px); opacity: 0; }
+    }
+    @keyframes driftLeft {
+      0% { transform: translate(0, 0); opacity: 0.25; }
+      50% { opacity: 0.6; }
+      100% { transform: translate(-15px, -220px); opacity: 0; }
+    }
+    @keyframes flicker {
+      0% { opacity: 0.2; }
+      25% { opacity: 0.5; }
+      50% { opacity: 0.3; }
+      75% { opacity: 0.6; }
+      100% { opacity: 0.2; }
+    }
+    .ember { animation: float linear infinite; }
+    .ember-drift { animation: drift linear infinite; }
+    .ember-left { animation: driftLeft linear infinite; }
+    .smoke { animation: flicker ease-in-out infinite; }
+  </style>
+
+  <!-- Red embers (#B20000) -->
+  <circle class="ember" cx="80" cy="200" r="2.5" fill="#B20000" style="animation-duration:6s;animation-delay:0s"/>
+  <circle class="ember-drift" cx="180" cy="190" r="1.8" fill="#B20000" style="animation-duration:7s;animation-delay:1s"/>
+  <circle class="ember" cx="320" cy="210" r="3" fill="#B20000" style="animation-duration:5s;animation-delay:0.5s"/>
+  <circle class="ember-left" cx="450" cy="195" r="2" fill="#B20000" style="animation-duration:8s;animation-delay:2s"/>
+  <circle class="ember-drift" cx="600" cy="205" r="2.8" fill="#B20000" style="animation-duration:6.5s;animation-delay:0.8s"/>
+  <circle class="ember" cx="720" cy="200" r="1.5" fill="#B20000" style="animation-duration:7.5s;animation-delay:3s"/>
+  <circle class="ember-left" cx="850" cy="210" r="2.2" fill="#B20000" style="animation-duration:5.5s;animation-delay:1.5s"/>
+  <circle class="ember" cx="980" cy="195" r="3.2" fill="#B20000" style="animation-duration:6s;animation-delay:0.3s"/>
+  <circle class="ember-drift" cx="1100" cy="200" r="2" fill="#B20000" style="animation-duration:7s;animation-delay:2.5s"/>
+  <circle class="ember-left" cx="1150" cy="210" r="1.8" fill="#B20000" style="animation-duration:8s;animation-delay:4s"/>
+
+  <!-- More red at different heights -->
+  <circle class="ember-drift" cx="150" cy="150" r="2" fill="#B20000" style="animation-duration:5s;animation-delay:3s"/>
+  <circle class="ember" cx="400" cy="130" r="1.5" fill="#B20000" style="animation-duration:6s;animation-delay:1.2s"/>
+  <circle class="ember-left" cx="550" cy="160" r="2.5" fill="#B20000" style="animation-duration:7s;animation-delay:0.7s"/>
+  <circle class="ember" cx="750" cy="140" r="1.8" fill="#B20000" style="animation-duration:5.5s;animation-delay:2.2s"/>
+  <circle class="ember-drift" cx="900" cy="155" r="2.2" fill="#B20000" style="animation-duration:6.5s;animation-delay:3.5s"/>
+  <circle class="ember-left" cx="1050" cy="145" r="3" fill="#B20000" style="animation-duration:5s;animation-delay:0.4s"/>
+
+  <!-- Gold embers (#C5A059) -->
+  <circle class="ember-left" cx="250" cy="205" r="1.5" fill="#C5A059" style="animation-duration:8s;animation-delay:1s"/>
+  <circle class="ember" cx="500" cy="200" r="2" fill="#C5A059" style="animation-duration:6s;animation-delay:3.5s"/>
+  <circle class="ember-drift" cx="670" cy="210" r="1.8" fill="#C5A059" style="animation-duration:7s;animation-delay:0.5s"/>
+  <circle class="ember-left" cx="1020" cy="195" r="2.5" fill="#C5A059" style="animation-duration:5.5s;animation-delay:2s"/>
+  <circle class="ember" cx="350" cy="170" r="1.2" fill="#C5A059" style="animation-duration:7.5s;animation-delay:4s"/>
+  <circle class="ember-drift" cx="820" cy="165" r="1.8" fill="#C5A059" style="animation-duration:6s;animation-delay:1.8s"/>
+
+  <!-- Smoke particles (#8E8E8E) -->
+  <circle class="smoke" cx="120" cy="180" r="1.5" fill="#8E8E8E" style="animation-duration:4s;animation-delay:0s"/>
+  <circle class="smoke" cx="380" cy="170" r="1" fill="#8E8E8E" style="animation-duration:3s;animation-delay:1s"/>
+  <circle class="smoke" cx="530" cy="185" r="1.2" fill="#8E8E8E" style="animation-duration:5s;animation-delay:2s"/>
+  <circle class="smoke" cx="700" cy="175" r="1.5" fill="#8E8E8E" style="animation-duration:3.5s;animation-delay:0.5s"/>
+  <circle class="smoke" cx="950" cy="180" r="1" fill="#8E8E8E" style="animation-duration:4.5s;animation-delay:1.5s"/>
+  <circle class="smoke" cx="1080" cy="190" r="1.3" fill="#8E8E8E" style="animation-duration:3s;animation-delay:3s"/>
+  <circle class="smoke" cx="50" cy="160" r="1" fill="#8E8E8E" style="animation-duration:4s;animation-delay:2.5s"/>
+  <circle class="smoke" cx="1180" cy="170" r="1.2" fill="#8E8E8E" style="animation-duration:5s;animation-delay:0.8s"/>
+
+  <!-- Header text -->
+  <text x="600" y="85" font-family="system-ui, -apple-system, sans-serif" font-size="42" font-weight="bold" fill="#F2F2F2" text-anchor="middle">Tech Enthusiast</text>
+  <text x="600" y="130" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#B20000" text-anchor="middle">Software Engineer</text>
+</svg>
