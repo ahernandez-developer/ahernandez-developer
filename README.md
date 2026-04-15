@@ -74,7 +74,7 @@ Software Engineer that enjoys coding. Right now I'm deep into AI tooling, making
 
 <table>
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h4 align="center">🐙 claude-crap &nbsp; <a href="https://github.com/ahernandez-developer/claude-crap"><img src="https://img.shields.io/github/stars/ahernandez-developer/claude-crap?style=social" /></a></h4>
       <p align="center">Claude Code plugin for deterministic static analysis and quality metrics. Tree-sitter AST parsing, CRAP index scoring, and maintainability gates.</p>
       <p align="center">
@@ -86,6 +86,20 @@ Software Engineer that enjoys coding. Right now I'm deep into AI tooling, making
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/Tree--sitter-4B32C3?style=flat-square" />
         <img src="https://img.shields.io/badge/MCP-Anthropic-D97757?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🔎 SEOpen &nbsp; <a href="https://github.com/ahernandez-developer/SEOpen"><img src="https://img.shields.io/github/stars/ahernandez-developer/SEOpen?style=social" /></a></h4>
+      <p align="center">Self-hostable platform for SEO + Generative Engine Optimization (GEO). Tracks AI visibility across ChatGPT, Claude, Perplexity, and Google AI Overviews.</p>
+      <p align="center">
+        <a href="https://github.com/ahernandez-developer/SEOpen">
+          <img src="https://img.shields.io/badge/Open_Source-MIT-B20000?style=for-the-badge" />
+        </a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/SEO-B20000?style=flat-square" />
+        <img src="https://img.shields.io/badge/GEO-4B32C3?style=flat-square" />
+        <img src="https://img.shields.io/badge/BYOK-339933?style=flat-square" />
       </p>
     </td>
   </tr>
